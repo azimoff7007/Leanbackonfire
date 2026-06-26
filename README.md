@@ -1,4 +1,4 @@
-# LeanbackOnFire
+# Leanback Launcher
 New Generation
 # LeanbackLauncher-kotlinx — План развития и дорожная карта проекта
 
